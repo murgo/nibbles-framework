@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeInvaders", "SnakeInvaders\SnakeInvaders.csproj", "{BC9512A6-641D-4C65-AA46-F78DD2C52BF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeInvaderAi", "SnakeInvaderAi\SnakeInvaderAi.csproj", "{B86AD330-D3B6-41DB-9FD4-198452D73623}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NetworkEngine", "NetworkEngine\NetworkEngine.csproj", "{4A995EDC-6F0E-432D-99AD-F22A84D34F5B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BC9512A6-641D-4C65-AA46-F78DD2C52BF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC9512A6-641D-4C65-AA46-F78DD2C52BF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC9512A6-641D-4C65-AA46-F78DD2C52BF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC9512A6-641D-4C65-AA46-F78DD2C52BF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B86AD330-D3B6-41DB-9FD4-198452D73623}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B86AD330-D3B6-41DB-9FD4-198452D73623}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B86AD330-D3B6-41DB-9FD4-198452D73623}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B86AD330-D3B6-41DB-9FD4-198452D73623}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A995EDC-6F0E-432D-99AD-F22A84D34F5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A995EDC-6F0E-432D-99AD-F22A84D34F5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A995EDC-6F0E-432D-99AD-F22A84D34F5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A995EDC-6F0E-432D-99AD-F22A84D34F5B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
